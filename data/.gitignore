@@ -1,0 +1,6 @@
+# Ignore everything in this directory
+*
+# Except these files
+!.gitignore
+!example_credentials.txt
+!example_santas.csv
